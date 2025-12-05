@@ -1,27 +1,131 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Azim</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<!--
+Profile README for: huzaifaazim0
+Tip: Keep it skimmable. Recruiters spend ~20 seconds here 😄
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifaazim0&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifaazim0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifaazim0" alt="huzaifaazim0" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👯 I’m looking to collaborate on **open-source projects**
-
-- 💬 Ask me about **react, nodejs, react native**
-
-- 📫 How to reach me **huzaifaazim0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi, I'm Huzaifa Azim 👋</h1>
+<p align="center">
+  Senior Full-Stack Developer • Technical Team Lead • MERN / JAMstack • Microservices • AWS
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:huzaifaazim0@gmail.com">📫 huzaifaazim0@gmail.com</a> •
+  <a href="https://github.com/huzaifaazim0">GitHub</a> •
+  <a href="https://www.linkedin.com/in/">LinkedIn</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaazim0&show_icons=true&locale=en&layout=compact" alt="huzaifaazim0" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huzaifaazim0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Node.js-Expert-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-5%2B%20yrs-61DAFB?logo=react&logoColor=0b2230" />
+  <img src="https://img.shields.io/badge/React%20Native-5%2B%20yrs-61DAFB?logo=react&logoColor=0b2230" />
+  <img src="https://img.shields.io/badge/Microservices-Building-000?logo=serverfault&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaazim0&show_icons=true&locale=en" alt="huzaifaazim0" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaazim0&" alt="huzaifaazim0" /></p>
+## ⚡ About me
+I’m a **Senior Full-Stack Developer (5+ years)** building high-performance web & mobile products with **Node.js + React/Next.js + React Native**.
+I love shipping practical solutions: **microservices**, **serverless**, **automation**, and scalable architectures.
+
+- 👯 Open to collaborating on **open-source** and product builds  
+- 💬 Ask me about **React, Node.js, React Native, Microservices, WebRTC, Automation**
+- 🌍 Based in **Rawalpindi, Pakistan** (Remote-friendly)
+
+---
+
+## 🧠 Current Focus
+- Designing scalable systems (microservices + clean APIs)
+- Performance tuning (latency, caching, database patterns)
+- Building end-to-end features across **web + mobile**
+
+---
+
+## 🧰 Tech Stack (the stuff I actually use)
+**Frontend**
+- React.js, Next.js, Remix (recent), Tailwind, SPA/SSR patterns
+
+**Backend**
+- Node.js, Express, REST APIs, Microservices, Serverless
+
+**Mobile / Desktop**
+- React Native, Electron.js
+
+**Databases**
+- MongoDB, SQL (MySQL/Postgres), Firebase/Realm (as needed)
+
+**DevOps / Infra**
+- AWS (incl. S3), Docker, Nginx, GitHub, CI-friendly workflows
+
+**Specialties**
+- WebRTC (real-time chat/calling), Web scraping, automation workflows
+
+---
+
+## 🏗️ Experience Highlights
+### X-42 — Technical Team Lead (Remote, Contract) | Dec 2023 — Present
+- Led a cross-functional team (backend, React Native, UI/UX)
+- Drove a backend migration to **microservices** for scale + maintainability
+- Improved performance by drastically reducing API response times
+- Designed and implemented robust system architecture & secure operations
+
+### Comtanix — Full Stack Developer | Dec 2022 — Present
+- Managed a team and shipped multiple internal CRM/CMS tools
+- Built automation workflows increasing operational efficiency
+
+### HILDES — Full Stack Developer | Feb 2020 — Sep 2021
+- Delivered multiple client web apps with React + Node.js
+- Built a real-time chat/calling product using **WebRTC**
+
+### LearnDes — Full Stack Developer | Jan 2019 — Jan 2020
+- Built client projects in PHP + Node.js
+- Worked across UI and backend improvements
+
+---
+
+## 🚀 Featured Projects
+Here are a few things I’ve worked on (pin these on your GitHub profile):
+
+- **Uptime-Kuma (Open Source Contributions)**  
+  Fixed issues & improved functionality in the project.
+- **Workflow Automation (Comtanix / vCloudTech)**  
+  Automated business workflows to improve efficiency.
+- **HRMS (Billboard Network)**  
+  HRMS with inventory + EMR integration + React Native app.
+- **Remote Advertising Billboard Network**  
+  End-to-end system built with web + React Native.
+- **Afrikonet**  
+  Multi-vendor shopping web + mobile app.
+- **Blacktiesports**  
+  Streaming infrastructure operations for large live events.
+
+> ✅ Tip: Add links to repos here once public, or link to case studies in a Gist.
+
+---
+
+## 🏆 Trophy Case (because it’s fun)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifaazim0&theme=onedark&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaazim0&show_icons=true&locale=en&layout=compact" alt="top langs" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaazim0&show_icons=true&locale=en" alt="stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaazim0" alt="streak" /></p>
+
+---
+
+## 🤝 Let’s build something
+If you’re working on:
+- a product that needs **web + mobile**
+- a performance-sensitive backend
+- real-time features (WebRTC)
+- automation pipelines
+
+…hit me up: **huzaifaazim0@gmail.com**
