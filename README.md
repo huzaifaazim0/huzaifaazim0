@@ -1,69 +1,111 @@
-# Hi, I'm Huzaifa Azim 👋
+<div align="center">
 
-**Senior Full-Stack & Backend Engineer · Applied AI & Distributed Systems**
-📍 Rawalpindi, Pakistan · 🌍 Open to international remote · 7+ years building production software
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Huzaifa%20Azim&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20and%20Backend%20Engineer&descAlignY=58&descSize=18" alt="Huzaifa Azim, Senior Full-Stack and Backend Engineer" width="100%" />
 
-I build full-stack SaaS, event-driven backends, real-time systems and AI applications, from voice bots and RAG assistants to trading infrastructure.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Voice+AI+that+picks+up+the+phone+%F0%9F%93%9E;Real-time+systems+that+don%27t+blink+%E2%9A%A1;RAG+%26+LLM+agents+in+production+%F0%9F%A7%A0;Trading+infra%3A+backtest+%E2%86%92+paper+%E2%86%92+live+%F0%9F%93%88" alt="Voice AI, real-time systems, RAG and LLM agents, trading infrastructure" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-huzaifaazim0-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifaazim0)
+<br/>
 
-## What I work on
+![Location](https://img.shields.io/badge/📍_Rawalpindi-Pakistan-1f2937?style=for-the-badge)
+![Experience](https://img.shields.io/badge/⏳_7+_years-shipping_production_software-1f2937?style=for-the-badge)
+![Remote](https://img.shields.io/badge/🌍_Open_to-international_remote-1f2937?style=for-the-badge)
 
-- **Conversational voice AI**: SIP/VoIP telephony, streaming STT, LLM-driven flows, TTS and handoff to human agents
-- **Applied AI**: RAG, embeddings (OpenAI/Gemini), MongoDB Atlas Vector Search, LLM tool calling, multimodal Gemini
-- **Real-time and distributed systems**: microservices, WebSockets, WebRTC/LiveKit, queues (SQS, RabbitMQ), media pipelines with FFmpeg
-- **Trading infrastructure**: broker and exchange integrations (IBKR, Schwab, Binance, Bybit) with backtesting, paper and live execution
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-huzaifaazim0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifaazim0)
 
-## Tech stack
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
+---
 
-Also: AWS (S3, Lambda, SQS, EC2), LiveKit, SIP/VoIP, REST APIs, system architecture.
+## 👋 Hey, I'm Huzaifa
 
-## Selected experience
+I'm a backend-heavy full-stack engineer who likes the problems where **latency is measured in milliseconds, messages never stop arriving, and a real person (or a real market) is on the other end.**
 
-- **X-42 (formerly SmrtBooking)**: team lead (2023–2026) and full-stack engineer (2026). POS, order and kitchen-display microservices, an AI assistant with vector search, a video processing pipeline, and real-time collaboration with LiveKit.
-- **Zombotix**: a conversational voice AI platform I architected and built (SIP/VoIP, STT, LLM, TTS, human handoff).
-- **Comtanix / vCloud Tech**: e-commerce automation, pricing logic and a storefront.
+For 7+ years I've built the unglamorous, load-bearing parts of software: queues, pipelines, microservices, telephony, real-time media. Lately that means voice AI that holds real phone conversations and infrastructure that executes trades, without falling over at 3 a.m.
 
-Most of my commercial work lives in private repositories.
+I've led teams, shipped SaaS products end to end, and I'm happiest when a hard system quietly just works.
 
-## Public projects
+---
 
-| Project | What it is |
-| --- | --- |
-| [docx-mergex](https://github.com/huzaifaazim0/docx-mergex) | Merge multiple .docx files with formatting preserved, pure Node.js |
-| [folder-hasher](https://github.com/huzaifaazim0/folder-hasher) | Generate a stable hash for the contents of a folder |
-| [md-license-header](https://github.com/huzaifaazim0/md-license-header) | Add or update license headers in code files from the command line |
-| [DB_MOVER](https://github.com/huzaifaazim0/DB_MOVER) | Export and import your database easily |
-| [react-native-cross-promotion](https://github.com/huzaifaazim0/react-native-cross-promotion) | React Native library for cross-promoting your own apps |
+## 🛠️ What I build
 
-## Open source
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Merged contributions to [Uptime Kuma](https://github.com/louislam/uptime-kuma):
+### 📞 Conversational voice AI
+Production voice bots over **SIP/VoIP**: streaming STT, LLM-driven call flows, TTS, and clean **handoff to human agents**. State and fan-out on **Redis + RabbitMQ**.
 
-- [#4519](https://github.com/louislam/uptime-kuma/pull/4519): added a database file existence check in `password-reset.js` (merged March 2024)
-- [#4521](https://github.com/louislam/uptime-kuma/pull/4521): migrated `timezones-list` to `@vvo/tzdb` (merged March 2024)
+</td>
+<td width="50%" valign="top">
 
-I'm now focused on contributing to AI open-source projects.
+### 🧠 Applied AI
+**RAG** assistants with OpenAI/Gemini embeddings and **MongoDB Atlas Vector Search**, **LLM tool calling**, and multimodal Gemini.
 
-## Get in touch
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Open to international remote roles and collaboration. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/huzaifaazim0).
+### ⚡ Real-time & distributed systems
+Event-driven microservices, **WebSockets / Socket.IO**, **WebRTC and LiveKit** collaboration, queues on **SQS and RabbitMQ**, media pipelines with **S3 + Lambda + FFmpeg**.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Trading infrastructure
+Broker and exchange integrations (**IBKR, Schwab, Binance, Bybit**) with backtesting, paper trading, and live execution.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,python,mongodb,mysql,redis,rabbitmq,aws,docker,nginx,linux&perline=7" alt="JavaScript, Node.js, Express, React, Next.js, Python, MongoDB, MySQL, Redis, RabbitMQ, AWS, Docker, Nginx, Linux" />
+
+</div>
+
+| | |
+|---|---|
+| **Languages & frameworks** | JavaScript, Node.js, Express, React, Next.js, React Native, Python |
+| **AI** | RAG, OpenAI/Gemini embeddings, MongoDB Atlas Vector Search, LLM tool calling, multimodal Gemini, STT/TTS |
+| **Real-time & media** | WebSockets, Socket.IO, WebRTC, LiveKit, SIP/VoIP, FFmpeg |
+| **Cloud & data** | AWS (S3, Lambda, SQS, EC2), MongoDB, MySQL, Redis, RabbitMQ |
+| **Ops** | Docker, Linux, Nginx, REST, microservices |
+
+---
+
+## 🧭 Career so far
+
+| | Where | What I did |
+|---|---|---|
+| 🚀 **2023 → 2026** | **X-42** (formerly SmrtBooking) | Team lead, then full-stack engineer in 2026. POS, order and kitchen-display microservices; an AI assistant on vector search; an S3/Lambda/FFmpeg video pipeline; real-time collaboration with LiveKit. |
+| 📞 | **Zombotix** | Conversational voice AI platform: SIP/VoIP, streaming STT, LLM flows, TTS, human handoff, Redis/RabbitMQ. |
+| 📈 | **Algorithmic trading infra** | Execution across IBKR, Schwab, Binance and Bybit, from backtests to paper to live. |
+| 🛒 | **Comtanix / vCloud Tech** | E-commerce automation. |
+| 🎓 | **M.S. Computer Science, HITEC** | Thesis: attention-based multimodal ML for skin-lesion classification. |
+| 🎓 | **B.S. Computer Science, UET Lahore** | |
+
+---
+
+## 🌱 Open source
+
+Most of my commercial work lives in private repositories. In public, I've had two PRs merged into [Uptime Kuma](https://github.com/louislam/uptime-kuma): [#4519](https://github.com/louislam/uptime-kuma/pull/4519) and [#4521](https://github.com/louislam/uptime-kuma/pull/4521) (March 2024). More AI-project contributions on the way.
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something
+
+Open to international remote roles and interesting collaborations.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifaazim0)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" width="100%" />
+
+</div>
