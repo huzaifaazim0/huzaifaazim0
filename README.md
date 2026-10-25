@@ -1,131 +1,69 @@
-<!--
-Profile README for: huzaifaazim0
-Tip: Keep it skimmable. Recruiters spend ~20 seconds here 😄
--->
+# Hi, I'm Huzaifa Azim 👋
 
-<h1 align="center">Hi, I'm Huzaifa Azim 👋</h1>
-<p align="center">
-  Senior Full-Stack Developer • Technical Team Lead • MERN / JAMstack • Microservices • AWS
-</p>
+**Senior Full-Stack & Backend Engineer · Applied AI & Distributed Systems**
+📍 Rawalpindi, Pakistan · 🌍 Open to international remote · 7+ years building production software
 
-<p align="center">
-  <a href="mailto:huzaifaazim0@gmail.com">📫 huzaifaazim0@gmail.com</a> •
-  <a href="https://github.com/huzaifaazim0">GitHub</a> •
-  <a href="https://www.linkedin.com/in/">LinkedIn</a>
-</p>
+I build full-stack SaaS, event-driven backends, real-time systems and AI applications, from voice bots and RAG assistants to trading infrastructure.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifaazim0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Node.js-Expert-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-5%2B%20yrs-61DAFB?logo=react&logoColor=0b2230" />
-  <img src="https://img.shields.io/badge/React%20Native-5%2B%20yrs-61DAFB?logo=react&logoColor=0b2230" />
-  <img src="https://img.shields.io/badge/Microservices-Building-000?logo=serverfault&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-huzaifaazim0-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifaazim0)
 
----
+## What I work on
 
-## ⚡ About me
-I’m a **Senior Full-Stack Developer (5+ years)** building high-performance web & mobile products with **Node.js + React/Next.js + React Native**.
-I love shipping practical solutions: **microservices**, **serverless**, **automation**, and scalable architectures.
+- **Conversational voice AI**: SIP/VoIP telephony, streaming STT, LLM-driven flows, TTS and handoff to human agents
+- **Applied AI**: RAG, embeddings (OpenAI/Gemini), MongoDB Atlas Vector Search, LLM tool calling, multimodal Gemini
+- **Real-time and distributed systems**: microservices, WebSockets, WebRTC/LiveKit, queues (SQS, RabbitMQ), media pipelines with FFmpeg
+- **Trading infrastructure**: broker and exchange integrations (IBKR, Schwab, Binance, Bybit) with backtesting, paper and live execution
 
-- 👯 Open to collaborating on **open-source** and product builds  
-- 💬 Ask me about **React, Node.js, React Native, Microservices, WebRTC, Automation**
-- 🌍 Based in **Rawalpindi, Pakistan** (Remote-friendly)
+## Tech stack
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
 
-## 🧠 Current Focus
-- Designing scalable systems (microservices + clean APIs)
-- Performance tuning (latency, caching, database patterns)
-- Building end-to-end features across **web + mobile**
+Also: AWS (S3, Lambda, SQS, EC2), LiveKit, SIP/VoIP, REST APIs, system architecture.
 
----
+## Selected experience
 
-## 🧰 Tech Stack (the stuff I actually use)
-**Frontend**
-- React.js, Next.js, Remix (recent), Tailwind, SPA/SSR patterns
+- **X-42 (formerly SmrtBooking)**: team lead (2023–2026) and full-stack engineer (2026). POS, order and kitchen-display microservices, an AI assistant with vector search, a video processing pipeline, and real-time collaboration with LiveKit.
+- **Zombotix**: a conversational voice AI platform I architected and built (SIP/VoIP, STT, LLM, TTS, human handoff).
+- **Comtanix / vCloud Tech**: e-commerce automation, pricing logic and a storefront.
 
-**Backend**
-- Node.js, Express, REST APIs, Microservices, Serverless
+Most of my commercial work lives in private repositories.
 
-**Mobile / Desktop**
-- React Native, Electron.js
+## Public projects
 
-**Databases**
-- MongoDB, SQL (MySQL/Postgres), Firebase/Realm (as needed)
+| Project | What it is |
+| --- | --- |
+| [docx-mergex](https://github.com/huzaifaazim0/docx-mergex) | Merge multiple .docx files with formatting preserved, pure Node.js |
+| [folder-hasher](https://github.com/huzaifaazim0/folder-hasher) | Generate a stable hash for the contents of a folder |
+| [md-license-header](https://github.com/huzaifaazim0/md-license-header) | Add or update license headers in code files from the command line |
+| [DB_MOVER](https://github.com/huzaifaazim0/DB_MOVER) | Export and import your database easily |
+| [react-native-cross-promotion](https://github.com/huzaifaazim0/react-native-cross-promotion) | React Native library for cross-promoting your own apps |
 
-**DevOps / Infra**
-- AWS (incl. S3), Docker, Nginx, GitHub, CI-friendly workflows
+## Open source
 
-**Specialties**
-- WebRTC (real-time chat/calling), Web scraping, automation workflows
+Merged contributions to [Uptime Kuma](https://github.com/louislam/uptime-kuma):
 
----
+- [#4519](https://github.com/louislam/uptime-kuma/pull/4519): added a database file existence check in `password-reset.js` (merged March 2024)
+- [#4521](https://github.com/louislam/uptime-kuma/pull/4521): migrated `timezones-list` to `@vvo/tzdb` (merged March 2024)
 
-## 🏗️ Experience Highlights
-### X-42 — Technical Team Lead (Remote, Contract) | Dec 2023 — Present
-- Led a cross-functional team (backend, React Native, UI/UX)
-- Drove a backend migration to **microservices** for scale + maintainability
-- Improved performance by drastically reducing API response times
-- Designed and implemented robust system architecture & secure operations
+I'm now focused on contributing to AI open-source projects.
 
-### Comtanix — Full Stack Developer | Dec 2022 — Present
-- Managed a team and shipped multiple internal CRM/CMS tools
-- Built automation workflows increasing operational efficiency
+## Get in touch
 
-### HILDES — Full Stack Developer | Feb 2020 — Sep 2021
-- Delivered multiple client web apps with React + Node.js
-- Built a real-time chat/calling product using **WebRTC**
-
-### LearnDes — Full Stack Developer | Jan 2019 — Jan 2020
-- Built client projects in PHP + Node.js
-- Worked across UI and backend improvements
-
----
-
-## 🚀 Featured Projects
-Here are a few things I’ve worked on (pin these on your GitHub profile):
-
-- **Uptime-Kuma (Open Source Contributions)**  
-  Fixed issues & improved functionality in the project.
-- **Workflow Automation (Comtanix / vCloudTech)**  
-  Automated business workflows to improve efficiency.
-- **HRMS (Billboard Network)**  
-  HRMS with inventory + EMR integration + React Native app.
-- **Remote Advertising Billboard Network**  
-  End-to-end system built with web + React Native.
-- **Afrikonet**  
-  Multi-vendor shopping web + mobile app.
-- **Blacktiesports**  
-  Streaming infrastructure operations for large live events.
-
-> ✅ Tip: Add links to repos here once public, or link to case studies in a Gist.
-
----
-
-## 🏆 Trophy Case (because it’s fun)
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=huzaifaazim0&theme=onedark&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaazim0&show_icons=true&locale=en&layout=compact" alt="top langs" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaazim0&show_icons=true&locale=en" alt="stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaazim0" alt="streak" /></p>
-
----
-
-## 🤝 Let’s build something
-If you’re working on:
-- a product that needs **web + mobile**
-- a performance-sensitive backend
-- real-time features (WebRTC)
-- automation pipelines
-
-…hit me up: **huzaifaazim0@gmail.com**
+Open to international remote roles and collaboration. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/huzaifaazim0).
